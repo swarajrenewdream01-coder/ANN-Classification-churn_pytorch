@@ -1,0 +1,10 @@
+ipykernel
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorboard
+streamlit
+torch
+torchvision
