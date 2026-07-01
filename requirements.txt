@@ -1,5 +1,4 @@
 ipykernel
-tensorflow
 pandas
 numpy
 scikit-learn
